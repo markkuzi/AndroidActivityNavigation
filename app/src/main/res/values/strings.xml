@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_title_text_for_next_activity">Enter Title Text For Next Activity</string>
+    <string name="go_next">GO NEXT</string>
+    <string name="go_back">GO BACK</string>
+    <string name="enter_title_for_previous_activity">Enter Title For Previous Activity</string>
+</resources>
